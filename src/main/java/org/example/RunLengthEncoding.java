@@ -1,7 +1,7 @@
 package org.example;
 
 import java.util.*;
-class Sample {
+class RunLengthEncoding {
     public static String encode(String m){
         int length=m.length();
         String result="";
